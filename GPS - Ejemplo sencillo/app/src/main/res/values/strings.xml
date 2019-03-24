@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GPS_Sencillo</string>
+    <string name="latitud_titulo">Latitud</string>
+    <string name="latitud">Latitud</string>
+    <string name="longitud_titulo">Longitud</string>
+    <string name="longitud">Longitud</string>
+    <string name="altura_titulo">Altura</string>
+    <string name="altura">Altura</string>
+    <string name="precisi_n_titulo">Precisión</string>
+    <string name="precisi_n">Precisión</string>
+    <string name="gps_sencillo">GPS SENCILLO</string>
+    <string name="altitud">Altitud</string>
+    <string name="altitud_valor">Altitud</string>
+    <string name="te_encuentas_en_la_direcci_n">Te encuentas en la dirección:</string>
+    <string name="textview">TextView</string>
+</resources>
